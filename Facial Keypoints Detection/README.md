@@ -87,7 +87,7 @@ sns.histplot(missing)
 
 ## 4.3. FastAI简略教程
 
-
+简略教程: [FastAI教程](https://qxmsb3wqkm.feishu.cn/docx/Ssn2doqAZoaMpfxBQxHc7ZWLn9b)
 
 简单总结一下：
 1. fastai比较方便，但是定制化稍显麻烦。
